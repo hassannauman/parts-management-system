@@ -2,7 +2,7 @@ module.exports = {
   apps: [
     {
       name: "parts-backend",
-      script: "./index.js",
+      script: "./server.js",
 
       // Environment
       env: {
